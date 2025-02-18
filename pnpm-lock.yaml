@@ -12,8 +12,8 @@ importers:
         specifier: ^1.9.4
         version: 1.9.4
       '@graphprotocol/grc-20':
-        specifier: ^0.5.5
-        version: 0.5.5(@types/node@22.13.4)(typescript@5.7.3)
+        specifier: ^0.6.0
+        version: 0.6.0(@types/node@22.13.4)(typescript@5.7.3)
       typescript:
         specifier: ^5.0.0
         version: 5.7.3
@@ -376,8 +376,8 @@ packages:
   '@ethersproject/wordlists@5.7.0':
     resolution: {integrity: sha512-S2TFNJNfHWVHNE6cNDjbVlZ6MgE17MIxMbMg2zv3wn+3XSJGosL1m9ZVv3GXCf/2ymSsQ+hRI5IzoMJTG6aoVA==}
 
-  '@graphprotocol/grc-20@0.5.5':
-    resolution: {integrity: sha512-IH8+T0HxYluxE3FpryNQWSygfBcYsNngIQq+/mZc3eVXyG0RdbXQvP/YQpW2U2OBhMCXAVuB0rd2Gxcajb37mA==}
+  '@graphprotocol/grc-20@0.6.0':
+    resolution: {integrity: sha512-N+bjPoB7TjNrJQQIOJ0Snveslq42uY7mO4sb9zy3XCB0yJlhy1TuBuQ+AXzwLi1LBEd62yNKSbz6dV9ghJa5CQ==}
 
   '@jest/schemas@29.6.3':
     resolution: {integrity: sha512-mo5j5X+jIZmJQveBKeS/clAueipV7KgiX1vMgCxam1RNYiqE1w62n0/tJJnHtjW8ZHcQco5gY85jA3mi0L+nSA==}
@@ -1805,7 +1805,7 @@ snapshots:
       '@ethersproject/properties': 5.7.0
       '@ethersproject/strings': 5.7.0
 
-  '@graphprotocol/grc-20@0.5.5(@types/node@22.13.4)(typescript@5.7.3)':
+  '@graphprotocol/grc-20@0.6.0(@types/node@22.13.4)(typescript@5.7.3)':
     dependencies:
       '@biomejs/biome': 1.9.4
       '@bufbuild/protobuf': 1.10.0

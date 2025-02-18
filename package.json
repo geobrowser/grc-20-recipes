@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@biomejs/biome": "^1.9.4",
-    "@graphprotocol/grc-20": "^0.5.5",
+    "@graphprotocol/grc-20": "^0.6.0",
     "viem": "^2.23.2"
   }
 }
